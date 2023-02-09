@@ -1,7 +1,7 @@
 # Mersenne Primes
 The following notebooks aim to explore a fascinating integer series called the Mersenne Primes. It's a function whose domain and range are all prime numbers. It can be written as:
 
-f(x) = 2<sup>p</sup> - 1
+f(x) = 2<sup>x</sup> - 1
 
 When x is a prime number and f(x) is also prime, this is considered a Mersenne Prime. 
 
